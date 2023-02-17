@@ -7,9 +7,10 @@ module.exports = {
     extend: {
       colors:{
         myblack: '#222831',
-        mydark: '#393E46',
         myteal: '#b29557',
-        mylight: '#EEEEEE'
+        mylight: '#EEEEEE',
+        mybg1: '#faeebe',
+        mytext1: '#bbaa67',
       },
       fontFamily:{
         myfont: ['Montserrat', 'sans-serif'],
