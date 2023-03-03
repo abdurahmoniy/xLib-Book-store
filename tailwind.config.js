@@ -13,7 +13,7 @@ module.exports = {
         mytext1: '#bbaa67',
       },
       fontFamily:{
-        myfont: ['Montserrat', 'sans-serif'],
+        myfont: ['Goudy Bookletter 1911', 'serif'],
       },
     },
     screens:{
