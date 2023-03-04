@@ -244,7 +244,7 @@
 }
 
 .text {
-  margin: 5px;
+  margin: 8px;
   padding: 5px 10px;
   border-radius: 4px;
   box-sizing: border-box;
@@ -261,4 +261,8 @@
 .bg_grd {
   background: #b29557;
   background: linear-gradient(20deg, #bbaa67 20%, #b29557 80% to top);
+}
+
+.bsh_bg{
+  box-shadow: #fff 1px 0px 20px 1px;
 }
